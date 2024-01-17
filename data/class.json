@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Logistics",
+    "subclass": [
+      "Storage",
+      "Belt transport system",
+      "Inserters",
+      "Electric system",
+      "Fluid system",
+      "Railway",
+      "Transport",
+      "Logistic network",
+      "Circuit network",
+      "Terrain"
+    ]
+  },
+  {
+    "name": "Production",
+    "subclass": [
+      "Tools",
+      "Electricity",
+      "Resource extraction",
+      "Furnaces",
+      "Production",
+      "Modules",
+      "Space related"
+    ]
+  },
+  {
+    "name": "Intermediate products",
+    "subclass":[
+      "Fluids",
+      "Resources",
+      "Materials",
+      "Barrels",
+      "Crafting components",
+      "Science packs"
+    ]
+  },
+  {
+    "name": "Combat",
+    "subclass": [
+      "Weapons",
+      "Ammo",
+      "Capsules",
+      "Armor",
+      "Equipment modules",
+      "Combat equipment",
+      "Defense"
+    ]
+  }
+]
