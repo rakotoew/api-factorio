@@ -3,6 +3,13 @@ export interface Item {
     name: string;
     class: string;
     craft: Craft[];
+    icons: string;
+}
+
+export interface SimpleItem {
+    id: number;
+    name: string;
+    icon: string;
 }
 
 export interface Craft {

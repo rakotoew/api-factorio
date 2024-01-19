@@ -1,7 +1,7 @@
 import {Injectable} from '@nestjs/common';
 import * as fs from 'fs';
 import {ClassModel} from './class.model'
-import {Item} from "./Items.model";
+import {Item, SimpleItem} from "./Items.model";
 import { join } from 'path';
 
 @Injectable()
@@ -34,6 +34,15 @@ export class ItemsService {
             }
             return {name: c.name, subclass: dataclass};
         });
+        return data;
+    }
+
+    getListItems(){
+        const items = this.getItemsData();
+        const data: SimpleItem[] = [];
+        items.forEach((item)=> {
+            data.push({id: item.id, name: item.name, icon: item.icons})
+        })
         return data;
     }
 }

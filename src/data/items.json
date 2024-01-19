@@ -3,1247 +3,1456 @@
     "id": 3,
     "name": "Wooden Chest",
     "craft": [],
-    "class": "Storage"
+    "class": "Storage",
+    "icons": "/icons/32px_Wooden_chest.png"
   },
   {
     "id": 4,
     "name": "Iron Chest",
     "craft": [],
-    "class": "Storage"
+    "class": "Storage",
+    "icons": "/icons/32px_Iron_chest.png"
   },
   {
     "id": 5,
     "name": "Steel Chest",
     "craft": [],
-    "class": "Storage"
+    "class": "Storage",
+    "icons": "/icons/32px_Steel_chest.png"
   },
   {
     "id": 6,
     "name": "Storage tank",
     "craft": [],
-    "class": "Storage"
+    "class": "Storage",
+    "icons": "/icons/32px_Storage_tank.png"
   },
   {
     "id": 7,
     "name": "Transport belt",
     "craft": [],
-    "class": "Belt transport system"
+    "class": "Belt transport system",
+    "icons": "/icons/32px_Transport_belt.png"
   },
   {
     "id": 8,
     "name": "Fast transport belt",
     "craft": [],
-    "class": "Belt transport system"
+    "class": "Belt transport system",
+    "icons": "/icons/32px_Fast_transport_belt.png"
   },
   {
     "id": 9,
     "name": "Express transport belt",
     "craft": [],
-    "class": "Belt transport system"
+    "class": "Belt transport system",
+    "icons": "/icons/32px_Express_transport_belt.png"
   },
   {
     "id": 10,
     "name": "Underground belt",
     "craft": [],
-    "class": "Belt transport system"
+    "class": "Belt transport system",
+    "icons": "/icons/32px_Underground_belt.png"
   },
   {
     "id": 11,
     "name": "Fast underground belt",
     "craft": [],
-    "class": "Belt transport system"
+    "class": "Belt transport system",
+    "icons": "/icons/32px_Fast_underground_belt.png"
   },
   {
     "id": 12,
     "name": "Express underground belt",
     "craft": [],
-    "class": "Belt transport system"
+    "class": "Belt transport system",
+    "icons": "/icons/32px_Express_underground_belt.png"
   },
   {
     "id": 13,
     "name": "Splitter",
     "craft": [],
-    "class": "Belt transport system"
+    "class": "Belt transport system",
+    "icons": "/icons/32px_Splitter.png"
   },
   {
     "id": 14,
     "name": "Fast splitter",
     "craft": [],
-    "class": "Belt transport system"
+    "class": "Belt transport system",
+    "icons": "/icons/32px_Fast_splitter.png"
   },
   {
     "id": 15,
     "name": "Express splitter",
     "craft": [],
-    "class": "Belt transport system"
+    "class": "Belt transport system",
+    "icons": "/icons/32px_Express_splitter.png"
   },
   {
     "id": 16,
     "name": "Burner inserter",
     "craft": [],
-    "class": "Inserters"
+    "class": "Inserters",
+    "icons": "/icons/32px_Burner_inserter.png"
   },
   {
     "id": 17,
     "name": "Inserter",
     "craft": [],
-    "class": "Inserters"
+    "class": "Inserters",
+    "icons": "/icons/32px_Inserter.png"
   },
   {
     "id": 18,
     "name": "Long-handed inserter",
     "craft": [],
-    "class": "Inserters"
+    "class": "Inserters",
+    "icons": "/icons/32px_Long-handed_inserter.png"
   },
   {
     "id": 19,
     "name": "Fast inserter",
     "craft": [],
-    "class": "Inserters"
+    "class": "Inserters",
+    "icons": "/icons/32px_Fast_inserter.png"
   },
   {
     "id": 20,
     "name": "Filter inserter",
     "craft": [],
-    "class": "Inserters"
+    "class": "Inserters",
+    "icons": "/icons/32px_Filter_inserter.png"
   },
   {
     "id": 21,
     "name": "Stack inserter",
     "craft": [],
-    "class": "Inserters"
+    "class": "Inserters",
+    "icons": "/icons/32px_Stack_inserter.png"
   },
   {
     "id": 22,
     "name": "Stack filter inserter",
     "craft": [],
-    "class": "Inserters"
+    "class": "Inserters",
+    "icons": "/icons/32px_Stack_filter_inserter.png"
   },
   {
     "id": 23,
     "name": "Small electric pole",
     "craft": [],
-    "class": "Electric system"
+    "class": "Electric system",
+    "icons": "/icons/32px_Small_electric_pole.png"
   },
   {
     "id": 24,
     "name": "Medium electric pole",
     "craft": [],
-    "class": "Electric system"
+    "class": "Electric system",
+    "icons": "/icons/32px_Medium_electric_pole.png"
   },
   {
     "id": 25,
     "name": "Big electric pole",
     "craft": [],
-    "class": "Electric system"
+    "class": "Electric system",
+    "icons": "/icons/32px_Big_electric_pole.png"
   },
   {
     "id": 26,
     "name": "Substation",
     "craft": [],
-    "class": "Electric system"
+    "class": "Electric system",
+    "icons": "/icons/32px_Substation.png"
   },
   {
     "id": 27,
     "name": "Pipe",
     "craft": [],
-    "class": "Fluid system"
+    "class": "Fluid system",
+    "icons": "/icons/32px_Pipe.png"
   },
   {
     "id": 28,
     "name": "Pipe to ground",
     "craft": [],
-    "class": "Fluid system"
+    "class": "Fluid system",
+    "icons": "/icons/32px_Pipe_to_ground.png"
   },
   {
     "id": 29,
     "name": "Pump",
     "craft": [],
-    "class": "Fluid system"
+    "class": "Fluid system",
+    "icons": "/icons/32px_Pump.png"
   },
   {
     "id": 30,
     "name": "Rail",
     "craft": [],
-    "class": "Railway"
+    "class": "Railway",
+    "icons": "/icons/32px_Rail.png"
   },
   {
     "id": 31,
     "name": "Train stop",
     "craft": [],
-    "class": "Railway"
+    "class": "Railway",
+    "icons": "/icons/32px_Train_stop.png"
   },
   {
     "id": 32,
     "name": "Rail signal",
     "craft": [],
-    "class": "Railway"
+    "class": "Railway",
+    "icons": "/icons/32px_Rail_signal.png"
   },
   {
     "id": 33,
     "name": "Rail chain signal",
     "craft": [],
-    "class": "Railway"
+    "class": "Railway",
+    "icons": "/icons/32px_Rail_chain_signal.png"
   },
   {
     "id": 34,
     "name": "Locomotive",
     "craft": [],
-    "class": "Railway"
+    "class": "Railway",
+    "icons": "/icons/32px_Locomotive.png"
   },
   {
     "id": 35,
     "name": "Cargo wagon",
     "craft": [],
-    "class": "Railway"
+    "class": "Railway",
+    "icons": "/icons/32px_Cargo_wagon.png"
   },
   {
     "id": 36,
     "name": "Fluid wagon",
     "craft": [],
-    "class": "Railway"
+    "class": "Railway",
+    "icons": "/icons/32px_Fluid_wagon.png"
   },
   {
     "id": 37,
     "name": "Artillery wagon",
     "craft": [],
-    "class": "Railway"
+    "class": "Railway",
+    "icons": "/icons/32px_Artillery_wagon.png"
   },
   {
     "id": 38,
     "name": "Car",
     "craft": [],
-    "class": "Transport"
+    "class": "Transport",
+    "icons": "/icons/32px_Car.png"
   },
   {
     "id": 39,
     "name": "Tank",
     "craft": [],
-    "class": "Transport"
+    "class": "Transport",
+    "icons": "/icons/32px_Tank.png"
   },
   {
     "id": 40,
     "name": "Spidertron",
     "craft": [],
-    "class": "Transport"
+    "class": "Transport",
+    "icons": "/icons/32px_Spidertron.png"
   },
   {
     "id": 2,
     "name": "Spidertron remote",
     "craft": [],
-    "class": "Transport"
+    "class": "Transport",
+    "icons": "/icons/32px_Spidertron_remote.png"
   },
   {
     "id": 41,
     "name": "Logistic robot",
     "craft": [],
-    "class": "Logistic network"
+    "class": "Logistic network",
+    "icons": "/icons/32px_Logistic_robot.png"
   },
   {
     "id": 42,
     "name": "Construction robot",
     "craft": [],
-    "class": "Logistic network"
+    "class": "Logistic network",
+    "icons": "/icons/32px_Construction_robot.png"
   },
   {
     "id": 43,
     "name": "Active provider chest",
     "craft": [],
-    "class": "Logistic network"
+    "class": "Logistic network",
+    "icons": "/icons/32px_Active_provider_chest.png"
   },
   {
     "id": 44,
     "name": "Passive provider chest",
     "craft": [],
-    "class": "Logistic network"
+    "class": "Logistic network",
+    "icons": "/icons/32px_Passive_provider_chest.png"
   },
   {
     "id": 45,
     "name": "Storage chest",
     "craft": [],
-    "class": "Logistic network"
+    "class": "Logistic network",
+    "icons": "/icons/32px_Storage_chest.png"
   },
   {
     "id": 46,
     "name": "Buffer chest",
     "craft": [],
-    "class": "Logistic network"
+    "class": "Logistic network",
+    "icons": "/icons/32px_Buffer_chest.png"
   },
   {
     "id": 47,
     "name": "Requester chest",
     "craft": [],
-    "class": "Logistic network"
+    "class": "Logistic network",
+    "icons": "/icons/32px_Requester_chest.png"
   },
   {
     "id": 48,
     "name": "Roboport",
     "craft": [],
-    "class": "Logistic network"
+    "class": "Logistic network",
+    "icons": "/icons/32px_Roboport.png"
   },
   {
     "id": 49,
     "name": "Small lamp",
     "craft": [],
-    "class": "Circuit network"
+    "class": "Circuit network",
+    "icons": "/icons/32px_Small_lamp.png"
   },
   {
     "id": 50,
     "name": "Red wire",
     "craft": [],
-    "class": "Circuit network"
+    "class": "Circuit network",
+    "icons": "/icons/32px_Red_wire.png"
   },
   {
     "id": 51,
     "name": "Green wire",
     "craft": [],
-    "class": "Circuit network"
+    "class": "Circuit network",
+    "icons": "/icons/32px_Green_wire.png"
   },
   {
     "id": 52,
     "name": "Arithmetic combinator",
     "craft": [],
-    "class": "Circuit network"
+    "class": "Circuit network",
+    "icons": "/icons/32px_Arithmetic_combinator.png"
   },
   {
     "id": 53,
     "name": "Decider combinator",
     "craft": [],
-    "class": "Circuit network"
+    "class": "Circuit network",
+    "icons": "/icons/32px_Decider_combinator.png"
   },
   {
     "id": 54,
     "name": "Constant combinator",
     "craft": [],
-    "class": "Circuit network"
+    "class": "Circuit network",
+    "icons": "/icons/32px_Constant_combinator.png"
   },
   {
     "id": 55,
     "name": "Power switch",
     "craft": [],
-    "class": "Circuit network"
+    "class": "Circuit network",
+    "icons": "/icons/32px_Power_switch.png"
   },
   {
     "id": 56,
     "name": "Programmable speaker",
     "craft": [],
-    "class": "Circuit network"
+    "class": "Circuit network",
+    "icons": "/icons/32px_Programmable_speaker.png"
   },
   {
     "id": 57,
     "name": "Stone brick",
     "craft": [],
-    "class": "Terrain"
+    "class": "Terrain",
+    "icons": "/icons/32px_Stone_brick.png"
   },
   {
     "id": 58,
     "name": "Concrete",
     "craft": [],
-    "class": "Terrain"
+    "class": "Terrain",
+    "icons": "/icons/32px_Concrete.png"
   },
   {
     "id": 59,
     "name": "Hazard concrete",
     "craft": [],
-    "class": "Terrain"
+    "class": "Terrain",
+    "icons": "/icons/32px_Hazard_concrete.png"
   },
   {
     "id": 60,
     "name": "Refined concrete",
     "craft": [],
-    "class": "Terrain"
+    "class": "Terrain",
+    "icons": "/icons/32px_Refined_concrete.png"
   },
   {
     "id": 61,
     "name": "Refined hazard concrete",
     "craft": [],
-    "class": "Terrain"
+    "class": "Terrain",
+    "icons": "/icons/32px_Refined_hazard_concrete.png"
   },
   {
     "id": 62,
     "name": "Landfill",
     "craft": [],
-    "class": "Terrain"
+    "class": "Terrain",
+    "icons": "/icons/32px_Landfill.png"
   },
   {
     "id": 63,
     "name": "Cliff explosives",
     "craft": [],
-    "class": "Terrain"
+    "class": "Terrain",
+    "icons": "/icons/32px_Cliff_explosives.png"
   },
   {
     "id": 64,
     "name": "Repair pack",
     "craft": [],
-    "class": "Tools"
+    "class": "Tools",
+    "icons": "/icons/32px_Repair_pack.png"
   },
   {
     "id": 65,
     "name": "Boiler",
     "craft": [],
-    "class": "Electricity"
+    "class": "Electricity",
+    "icons": "/icons/32px_Boiler.png"
   },
   {
     "id": 66,
     "name": "Steam engine",
     "craft": [],
-    "class": "Electricity"
+    "class": "Electricity",
+    "icons": "/icons/32px_Steam_engine.png"
   },
   {
     "id": 67,
     "name": "Solar panel",
     "craft": [],
-    "class": "Electricity"
+    "class": "Electricity",
+    "icons": "/icons/32px_Solar_panel.png"
   },
   {
     "id": 68,
     "name": "Accumulator",
     "craft": [],
-    "class": "Electricity"
+    "class": "Electricity",
+    "icons": "/icons/32px_Accumulator.png"
   },
   {
     "id": 69,
     "name": "Nuclear reactor",
     "craft": [],
-    "class": "Electricity"
+    "class": "Electricity",
+    "icons": "/icons/32px_Nuclear_reactor.png"
   },
   {
     "id": 70,
     "name": "Heat exchanger",
     "craft": [],
-    "class": "Electricity"
+    "class": "Electricity",
+    "icons": "/icons/32px_Heat_exchanger.png"
   },
   {
     "id": 71,
     "name": "Heat pipe",
     "craft": [],
-    "class": "Electricity"
+    "class": "Electricity",
+    "icons": "/icons/32px_Heat_pipe.png"
   },
   {
     "id": 72,
     "name": "Steam turbine",
     "craft": [],
-    "class": "Electricity"
+    "class": "Electricity",
+    "icons": "/icons/32px_Steam_turbine.png"
   },
   {
     "id": 73,
     "name": "Burner mining drill",
     "craft": [],
-    "class": "Resource extraction"
+    "class": "Resource extraction",
+    "icons": "/icons/32px_Burner_mining_drill.png"
   },
   {
     "id": 74,
     "name": "Electric mining drill",
     "craft": [],
-    "class": "Resource extraction"
+    "class": "Resource extraction",
+    "icons": "/icons/32px_Electric_mining_drill.png"
   },
   {
     "id": 75,
     "name": "Offshore pump",
     "craft": [],
-    "class": "Resource extraction"
+    "class": "Resource extraction",
+    "icons": "/icons/32px_Offshore_pump.png"
   },
   {
     "id": 76,
     "name": "Pumpjack",
     "craft": [],
-    "class": "Resource extraction"
+    "class": "Resource extraction",
+    "icons": "/icons/32px_Pumpjack.png"
   },
   {
     "id": 77,
     "name": "Stone furnace",
     "craft": [],
-    "class": "Furnaces"
+    "class": "Furnaces",
+    "icons": "/icons/32px_Stone_furnace.png"
   },
   {
     "id": 78,
     "name": "Steel furnace",
     "craft": [],
-    "class": "Furnaces"
+    "class": "Furnaces",
+    "icons": "/icons/32px_Steel_furnace.png"
   },
   {
     "id": 79,
     "name": "Electric furnace",
     "craft": [],
-    "class": "Furnaces"
+    "class": "Furnaces",
+    "icons": "/icons/32px_Electric_furnace.png"
   },
   {
     "id": 80,
     "name": "Assembling machine 1",
     "craft": [],
-    "class": "Production"
+    "class": "Production",
+    "icons": "/icons/32px_Assembling_machine_1.png"
   },
   {
     "id": 81,
     "name": "Assembling machine 2",
     "craft": [],
-    "class": "Production"
+    "class": "Production",
+    "icons": "/icons/32px_Assembling_machine_2.png"
   },
   {
     "id": 82,
     "name": "Assembling machine 3",
     "craft": [],
-    "class": "Production"
+    "class": "Production",
+    "icons": "/icons/32px_Assembling_machine_3.png"
   },
   {
     "id": 83,
     "name": "Oil refinery",
     "craft": [],
-    "class": "Production"
+    "class": "Production",
+    "icons": "/icons/32px_Oil_refinery.png"
   },
   {
     "id": 84,
     "name": "Chemical plant",
     "craft": [],
-    "class": "Production"
+    "class": "Production",
+    "icons": "/icons/32px_Chemical_plant.png"
   },
   {
     "id": 85,
     "name": "Centrifuge",
     "craft": [],
-    "class": "Production"
+    "class": "Production",
+    "icons": "/icons/32px_Centrifuge.png"
   },
   {
     "id": 86,
     "name": "Lab",
     "craft": [],
-    "class": "Production"
+    "class": "Production",
+    "icons": "/icons/32px_Lab.png"
   },
   {
     "id": 87,
     "name": "Beacon",
     "craft": [],
-    "class": "Module"
+    "class": "Module",
+    "icons": "/icons/32px_Beacon.png"
   },
   {
     "id": 88,
     "name": "Speed module",
     "craft": [],
-    "class": "Module"
+    "class": "Module",
+    "icons": "/icons/32px_Speed_module.png"
   },
   {
     "id": 89,
     "name": "Speed module 2",
     "craft": [],
-    "class": "Module"
+    "class": "Module",
+    "icons": "/icons/32px_Speed_module_2.png"
   },
   {
     "id": 90,
     "name": "Speed module 3",
     "craft": [],
-    "class": "Module"
+    "class": "Module",
+    "icons": "/icons/32px_Speed_module_3.png"
   },
   {
     "id": 91,
-    "name": "Effectivity module",
+    "name": "Efficiency module",
     "craft": [],
-    "class": "Module"
+    "class": "Module",
+    "icons": "/icons/32px_Efficiency_module.png"
   },
   {
     "id": 92,
-    "name": "Effectivity module 2",
+    "name": "Efficiency module 2",
     "craft": [],
-    "class": "Module"
+    "class": "Module",
+    "icons": "/icons/32px_Efficiency_module_2.png"
   },
   {
     "id": 93,
-    "name": "Effectivity module 3",
+    "name": "Efficiency module 3",
     "craft": [],
-    "class": "Module"
+    "class": "Module",
+    "icons": "/icons/32px_Efficiency_module_3.png"
   },
   {
     "id": 94,
     "name": "Productivity module",
     "craft": [],
-    "class": "Module"
+    "class": "Module",
+    "icons": "/icons/32px_Productivity_module.png"
   },
   {
     "id": 95,
     "name": "Productivity module 2",
     "craft": [],
-    "class": "Module"
+    "class": "Module",
+    "icons": "/icons/32px_Productivity_module_2.png"
   },
   {
     "id": 96,
     "name": "Productivity module 3",
     "craft": [],
-    "class": "Module"
+    "class": "Module",
+    "icons": "/icons/32px_Productivity_module_3.png"
   },
   {
     "id": 97,
     "name": "Rocket silo",
     "craft": [],
-    "class": "Space related"
+    "class": "Space related",
+    "icons": "/icons/32px_Rocket_silo.png"
   },
   {
     "id": 98,
     "name": "Satellite",
     "craft": [],
-    "class": "Space related"
+    "class": "Space related",
+    "icons": "/icons/32px_Satellite.png"
   },
   {
     "id": 99,
     "name": "Crude oil",
     "craft": [],
-    "class": "Fluids"
+    "class": "Fluids",
+    "icons": "/icons/32px_Crude_oil.png"
   },
   {
     "id": 100,
     "name": "Heavy oil",
     "craft": [],
-    "class": "Fluids"
+    "class": "Fluids",
+    "icons": "/icons/32px_Heavy_oil.png"
   },
   {
     "id": 101,
     "name": "Light oil",
     "craft": [],
-    "class": "Fluids"
+    "class": "Fluids",
+    "icons": "/icons/32px_Light_oil.png"
   },
   {
     "id": 102,
     "name": "Lubricant",
     "craft": [],
-    "class": "Fluids"
+    "class": "Fluids",
+    "icons": "/icons/32px_Lubricant.png"
   },
   {
     "id": 103,
     "name": "Petroleum gas",
     "craft": [],
-    "class": "Fluids"
+    "class": "Fluids",
+    "icons": "/icons/32px_Petroleum_gas.png"
   },
   {
     "id": 104,
     "name": "Sulfuric acid",
     "craft": [],
-    "class": "Fluids"
+    "class": "Fluids",
+    "icons": "/icons/32px_Sulfuric_acid.png"
   },
   {
     "id": 105,
     "name": "Water",
     "craft": [],
-    "class": "Fluids"
+    "class": "Fluids",
+    "icons": "/icons/32px_Water.png"
   },
   {
     "id": 106,
     "name": "Steam",
     "craft": [],
-    "class": "Fluids"
+    "class": "Fluids",
+    "icons": "/icons/32px_Steam.png"
   },
   {
     "id": 107,
     "name": "Wood",
     "craft": [],
-    "class": "Resources"
+    "class": "Resources",
+    "icons": "/icons/32px_Wood.png"
   },
   {
     "id": 108,
     "name": "Coal",
     "craft": [],
-    "class": "Resources"
+    "class": "Resources",
+    "icons": "/icons/32px_Coal.png"
   },
   {
     "id": 109,
     "name": "Stone",
     "craft": [],
-    "class": "Resources"
+    "class": "Resources",
+    "icons": "/icons/32px_Stone.png"
   },
   {
     "id": 110,
     "name": "Iron ore",
     "craft": [],
-    "class": "Resources"
+    "class": "Resources",
+    "icons": "/icons/32px_Iron_ore.png"
   },
   {
     "id": 111,
     "name": "Copper ore",
     "craft": [],
-    "class": "Resources"
+    "class": "Resources",
+    "icons": "/icons/32px_Copper_ore.png"
   },
   {
     "id": 112,
     "name": "Uranium ore",
     "craft": [],
-    "class": "Resources"
+    "class": "Resources",
+    "icons": "/icons/32px_Uranium_ore.png"
   },
   {
     "id": 113,
     "name": "Raw fish",
     "craft": [],
-    "class": "Resources"
+    "class": "Resources",
+    "icons": "/icons/32px_Raw_fish.png"
   },
   {
     "id": 114,
     "name": "Iron plate",
     "craft": [],
-    "class": "Materials"
+    "class": "Materials",
+    "icons": "/icons/32px_Iron_plate.png"
   },
   {
     "id": 115,
     "name": "Copper plate",
     "craft": [],
-    "class": "Materials"
+    "class": "Materials",
+    "icons": "/icons/32px_Copper_plate.png"
   },
   {
     "id": 116,
     "name": "Solid fuel",
     "craft": [],
-    "class": "Materials"
+    "class": "Materials",
+    "icons": "/icons/32px_Solid_fuel.png"
   },
   {
     "id": 117,
     "name": "Steel plate",
     "craft": [],
-    "class": "Materials"
+    "class": "Materials",
+    "icons": "/icons/32px_Steel_plate.png"
   },
   {
     "id": 118,
     "name": "Plastic bar",
     "craft": [],
-    "class": "Materials"
+    "class": "Materials",
+    "icons": "/icons/32px_Plastic_bar.png"
   },
   {
     "id": 119,
     "name": "Sulfur",
     "craft": [],
-    "class": "Materials"
+    "class": "Materials",
+    "icons": "/icons/32px_Sulfur.png"
   },
   {
     "id": 120,
     "name": "Battery",
     "craft": [],
-    "class": "Materials"
+    "class": "Materials",
+    "icons": "/icons/32px_Battery.png"
   },
   {
     "id": 121,
     "name": "Explosives",
     "craft": [],
-    "class": "Materials"
+    "class": "Materials",
+    "icons": "/icons/32px_Explosives.png"
   },
   {
     "id": 122,
     "name": "Crude oil barrel",
     "craft": [],
-    "class": "Barrels"
+    "class": "Barrels",
+    "icons": "/icons/32px_Crude_oil_barrel.png"
   },
   {
     "id": 123,
     "name": "Heavy oil barrel",
     "craft": [],
-    "class": "Barrels"
+    "class": "Barrels",
+    "icons": "/icons/32px_Heavy_oil_barrel.png"
   },
   {
     "id": 124,
     "name": "Light oil barrel",
     "craft": [],
-    "class": "Barrels"
+    "class": "Barrels",
+    "icons": "/icons/32px_Light_oil_barrel.png"
   },
   {
     "id": 125,
     "name": "Lubricant barrel",
     "craft": [],
-    "class": "Barrels"
+    "class": "Barrels",
+    "icons": "/icons/32px_Lubricant_barrel.png"
   },
   {
     "id": 126,
     "name": "Petroleum gas barrel",
     "craft": [],
-    "class": "Barrels"
+    "class": "Barrels",
+    "icons": "/icons/32px_Petroleum_gas_barrel.png"
   },
   {
     "id": 127,
     "name": "Sulfuric acid barrel",
     "craft": [],
-    "class": "Barrels"
+    "class": "Barrels",
+    "icons": "/icons/32px_Sulfuric_acid_barrel.png"
   },
   {
     "id": 128,
     "name": "Water barrel",
     "craft": [],
-    "class": "Barrels"
+    "class": "Barrels",
+    "icons": "/icons/32px_Water_barrel.png"
   },
   {
     "id": 129,
     "name": "Copper cable",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Copper_cable.png"
   },
   {
     "id": 130,
     "name": "Iron stick",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Iron_stick.png"
   },
   {
     "id": 131,
     "name": "Iron gear wheel",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Iron_gear_wheel.png"
   },
   {
     "id": 132,
     "name": "Empty barrel",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Empty_barrel.png"
   },
   {
     "id": 133,
     "name": "Electronic circuit",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Electronic_circuit.png"
   },
   {
     "id": 134,
     "name": "Advanced circuit",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Advanced_circuit.png"
   },
   {
     "id": 135,
     "name": "Processing unit",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Processing_unit.png"
   },
   {
     "id": 136,
     "name": "Engine unit",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Engine_unit.png"
   },
   {
     "id": 137,
     "name": "Electric engine unit",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Electric_engine_unit.png"
   },
   {
     "id": 138,
     "name": "Flying robot frame",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Flying_robot_frame.png"
   },
   {
     "id": 139,
     "name": "Rocket part",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Rocket_part.png"
   },
   {
     "id": 140,
     "name": "Rocket control unit",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Rocket_control_unit.png"
   },
   {
     "id": 141,
     "name": "Low density structure",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Low_density_structure.png"
   },
   {
     "id": 142,
     "name": "Rocket fuel",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Rocket_fuel.png"
   },
   {
     "id": 143,
     "name": "Nuclear fuel",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Nuclear_fuel.png"
   },
   {
     "id": 144,
     "name": "Uranium-235",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Uranium-235.png"
   },
   {
     "id": 145,
     "name": "Uranium-238",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Uranium-238.png"
   },
   {
     "id": 146,
     "name": "Uranium fuel cell",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Uranium_fuel_cell.png"
   },
   {
     "id": 147,
     "name": "Used up uranium fuel cell",
     "craft": [],
-    "class": "Crafting components"
+    "class": "Crafting components",
+    "icons": "/icons/32px_Used_up_uranium_fuel_cell.png"
   },
   {
     "id": 148,
     "name": "Automation science pack",
     "craft": [],
-    "class": "Science packs"
+    "class": "Science packs",
+    "icons": "/icons/32px_Automation_science_pack.png"
   },
   {
     "id": 149,
     "name": "Logistic science pack",
     "craft": [],
-    "class": "Science packs"
+    "class": "Science packs",
+    "icons": "/icons/32px_Logistic_science_pack.png"
   },
   {
     "id": 150,
     "name": "Military science pack",
     "craft": [],
-    "class": "Science packs"
+    "class": "Science packs",
+    "icons": "/icons/32px_Military_science_pack.png"
   },
   {
     "id": 151,
     "name": "Chemical science pack",
     "craft": [],
-    "class": "Science packs"
+    "class": "Science packs",
+    "icons": "/icons/32px_Chemical_science_pack.png"
   },
   {
     "id": 152,
     "name": "Production science pack",
     "craft": [],
-    "class": "Science packs"
+    "class": "Science packs",
+    "icons": "/icons/32px_Production_science_pack.png"
   },
   {
     "id": 153,
     "name": "Utility science pack",
     "craft": [],
-    "class": "Science packs"
+    "class": "Science packs",
+    "icons": "/icons/32px_Utility_science_pack.png"
   },
   {
     "id": 154,
     "name": "Space science pack",
     "craft": [],
-    "class": "Science packs"
+    "class": "Science packs",
+    "icons": "/icons/32px_Space_science_pack.png"
   },
   {
     "id": 155,
     "name": "Pistol",
     "craft": [],
-    "class": "Weapons"
+    "class": "Weapons",
+    "icons": "/icons/32px_Pistol.png"
   },
   {
     "id": 156,
     "name": "Submachine gun",
     "craft": [],
-    "class": "Weapons"
+    "class": "Weapons",
+    "icons": "/icons/32px_Submachine_gun.png"
   },
   {
     "id": 157,
     "name": "Shotgun",
     "craft": [],
-    "class": "Weapons"
+    "class": "Weapons",
+    "icons": "/icons/32px_Shotgun.png"
   },
   {
     "id": 158,
     "name": "Combat shotgun",
     "craft": [],
-    "class": "Weapons"
+    "class": "Weapons",
+    "icons": "/icons/32px_Combat_shotgun.png"
   },
   {
     "id": 159,
     "name": "Rocket launcher",
     "craft": [],
-    "class": "Weapons"
+    "class": "Weapons",
+    "icons": "/icons/32px_Rocket_launcher.png"
   },
   {
     "id": 160,
     "name": "Flamethrower",
     "craft": [],
-    "class": "Weapons"
+    "class": "Weapons",
+    "icons": "/icons/32px_Flamethrower.png"
   },
   {
     "id": 161,
     "name": "Land mine",
     "craft": [],
-    "class": "Weapons"
+    "class": "Weapons",
+    "icons": "/icons/32px_Land_mine.png"
   },
   {
     "id": 162,
     "name": "Firearm magazine",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Firearm_magazine.png"
   },
   {
     "id": 163,
     "name": "Piercing rounds magazine",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Piercing_rounds_magazine.png"
   },
   {
     "id": 164,
     "name": "Uranium rounds magazine",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Uranium_rounds_magazine.png"
   },
   {
     "id": 165,
     "name": "Shotgun shells",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Shotgun_shells.png"
   },
   {
     "id": 166,
     "name": "Piercing shotgun shells",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Piercing_shotgun_shells.png"
   },
   {
     "id": 167,
     "name": "Cannon shell",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Cannon_shell.png"
   },
   {
     "id": 168,
     "name": "Explosive cannon shell",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Explosive_cannon_shell.png"
   },
   {
     "id": 169,
     "name": "Uranium cannon shell",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Uranium_cannon_shell.png"
   },
   {
     "id": 170,
     "name": "Explosive uranium cannon shell",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Explosive_uranium_cannon_shell.png"
   },
   {
     "id": 171,
     "name": "Artillery shell",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Artillery_shell.png"
   },
   {
     "id": 172,
     "name": "Rocket",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Rocket.png"
   },
   {
     "id": 173,
     "name": "Explosive rocket",
     "craft": [],
-    "class": "Ammo"
-  },{
-  "id": 174,
-  "name": "Atomic bomb",
-  "craft": [],
-  "class": "Ammo"
-},
+    "class": "Ammo",
+    "icons": "/icons/32px_Explosive_rocket.png"
+  },
+  {
+    "id": 174,
+    "name": "Atomic bomb",
+    "craft": [],
+    "class": "Ammo",
+    "icons": "/icons/32px_Atomic_bomb.png"
+  },
   {
     "id": 175,
     "name": "Flamethrower ammo",
     "craft": [],
-    "class": "Ammo"
+    "class": "Ammo",
+    "icons": "/icons/32px_Flamethrower_ammo.png"
   },
   {
     "id": 176,
     "name": "Grenade",
     "craft": [],
-    "class": "Capsules"
+    "class": "Capsules",
+    "icons": "/icons/32px_Grenade.png"
   },
   {
     "id": 177,
     "name": "Cluster grenade",
     "craft": [],
-    "class": "Capsules"
+    "class": "Capsules",
+    "icons": "/icons/32px_Cluster_grenade.png"
   },
   {
     "id": 178,
     "name": "Poison capsule",
     "craft": [],
-    "class": "Capsules"
+    "class": "Capsules",
+    "icons": "/icons/32px_Poison_capsule.png"
   },
   {
     "id": 179,
     "name": "Slowdown capsule",
     "craft": [],
-    "class": "Capsules"
+    "class": "Capsules",
+    "icons": "/icons/32px_Slowdown_capsule.png"
   },
   {
     "id": 180,
     "name": "Defender capsule",
     "craft": [],
-    "class": "Capsules"
+    "class": "Capsules",
+    "icons": "/icons/32px_Defender_capsule.png"
   },
   {
     "id": 181,
     "name": "Distractor capsule",
     "craft": [],
-    "class": "Capsules"
+    "class": "Capsules",
+    "icons": "/icons/32px_Distractor_capsule.png"
   },
   {
     "id": 182,
     "name": "Destroyer capsule",
     "craft": [],
-    "class": "Capsules"
+    "class": "Capsules",
+    "icons": "/icons/32px_Destroyer_capsule.png"
   },
   {
     "id": 183,
     "name": "Light armor",
     "craft": [],
-    "class": "Armor"
+    "class": "Armor",
+    "icons": "/icons/32px_Light_armor.png"
   },
   {
     "id": 184,
     "name": "Heavy armor",
     "craft": [],
-    "class": "Armor"
+    "class": "Armor",
+    "icons": "/icons/32px_Heavy_armor.png"
   },
   {
     "id": 185,
     "name": "Modular armor",
     "craft": [],
-    "class": "Armor"
+    "class": "Armor",
+    "icons": "/icons/32px_Modular_armor.png"
   },
   {
     "id": 186,
     "name": "Power armor",
     "craft": [],
-    "class": "Armor"
+    "class": "Armor",
+    "icons": "/icons/32px_Power_armor.png"
   },
   {
     "id": 187,
-    "name": "Power armor MK2",
+    "name": "Power armor mk2",
     "craft": [],
-    "class": "Armor"
+    "class": "Armor",
+    "icons": "/icons/32px_Power_armor_mk2.png"
   },
   {
     "id": 188,
     "name": "Portable solar panel",
     "craft": [],
-    "class": "Equipment modules"
+    "class": "Equipment modules",
+    "icons": "/icons/32px_Portable_solar_panel.png"
   },
   {
     "id": 189,
     "name": "Portable fusion reactor",
     "craft": [],
-    "class": "Equipment modules"
+    "class": "Equipment modules",
+    "icons": "/icons/32px_Portable_fusion_reactor.png"
   },
   {
     "id": 190,
     "name": "Personal battery",
     "craft": [],
-    "class": "Equipment modules"
+    "class": "Equipment modules",
+    "icons": "/icons/32px_Personal_battery.png"
   },
   {
     "id": 191,
-    "name": "Personal battery MK2",
+    "name": "Personal battery mk2",
     "craft": [],
-    "class": "Equipment modules"
+    "class": "Equipment modules",
+    "icons": "/icons/32px_Personal_battery_mk2.png"
   },
   {
     "id": 192,
     "name": "Belt immunity equipment",
     "craft": [],
-    "class": "Equipment modules"
+    "class": "Equipment modules",
+    "icons": "/icons/32px_Belt_immunity_equipment.png"
   },
   {
     "id": 193,
     "name": "Exoskeleton",
     "craft": [],
-    "class": "Equipment modules"
+    "class": "Equipment modules",
+    "icons": "/icons/32px_Exoskeleton.png"
   },
   {
     "id": 194,
     "name": "Personal roboport",
     "craft": [],
-    "class": "Equipment modules"
+    "class": "Equipment modules",
+    "icons": "/icons/32px_Personal_roboport.png"
   },
   {
     "id": 195,
-    "name": "Personal roboport MK2",
+    "name": "Personal roboport mk2",
     "craft": [],
-    "class": "Equipment modules"
+    "class": "Equipment modules",
+    "icons": "/icons/32px_Personal_roboport_mk2.png"
   },
   {
     "id": 196,
     "name": "Nightvision",
     "craft": [],
-    "class": "Equipment modules"
+    "class": "Equipment modules",
+    "icons": "/icons/32px_Nightvision.png"
   },
   {
     "id": 197,
     "name": "Energy shield",
     "craft": [],
-    "class": "Combat equipment"
+    "class": "Combat equipment",
+    "icons": "/icons/32px_Energy_shield.png"
   },
   {
     "id": 198,
-    "name": "Energy shield MK2",
+    "name": "Energy shield mk2",
     "craft": [],
-    "class": "Combat equipment"
+    "class": "Combat equipment",
+    "icons": "/icons/32px_Energy_shield_mk2.png"
   },
   {
     "id": 199,
     "name": "Personal laser defense",
     "craft": [],
-    "class": "Combat equipment"
+    "class": "Combat equipment",
+    "icons": "/icons/32px_Personal_laser_defense.png"
   },
   {
     "id": 200,
     "name": "Discharge defense",
     "craft": [],
-    "class": "Combat equipment"
+    "class": "Combat equipment",
+    "icons": "/icons/32px_Discharge_defense.png"
   },
   {
     "id": 201,
     "name": "Discharge defense remote",
     "craft": [],
-    "class": "Combat equipment"
+    "class": "Combat equipment",
+    "icons": "/icons/32px_Discharge_defense_remote.png"
   },
   {
     "id": 202,
     "name": "Wall",
     "craft": [],
-    "class": "Defense"
+    "class": "Defense",
+    "icons": "/icons/32px_Wall.png"
   },
   {
     "id": 203,
     "name": "Gates",
     "craft": [],
-    "class": "Defense"
+    "class": "Defense",
+    "icons": "/icons/32px_Gates.png"
   },
   {
     "id": 204,
     "name": "Gun turret",
     "craft": [],
-    "class": "Defense"
+    "class": "Defense",
+    "icons": "/icons/32px_Gun_turret.png"
   },
   {
     "id": 205,
     "name": "Laser turret",
     "craft": [],
-    "class": "Defense"
+    "class": "Defense",
+    "icons": "/icons/32px_Laser_turret.png"
   },
   {
     "id": 206,
     "name": "Flamethrower turret",
     "craft": [],
-    "class": "Defense"
+    "class": "Defense",
+    "icons": "/icons/32px_Flamethrower_turret.png"
   },
   {
     "id": 207,
     "name": "Artillery turret",
     "craft": [],
-    "class": "Defense"
+    "class": "Defense",
+    "icons": "/icons/32px_Artillery_turret.png"
   },
   {
     "id": 208,
     "name": "Artillery targeting remote",
     "craft": [],
-    "class": "Defense"
+    "class": "Defense",
+    "icons": "/icons/32px_Artillery_targeting_remote.png"
   },
   {
     "id": 209,
     "name": "Radar",
     "craft": [],
-    "class": "Defense"
+    "class": "Defense",
+    "icons": "/icons/32px_Radar.png"
   }
 ]

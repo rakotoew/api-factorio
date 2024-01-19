@@ -1,0 +1,1249 @@
+[
+  {
+    "id": 3,
+    "name": "Wooden Chest",
+    "craft": [],
+    "class": "Storage"
+  },
+  {
+    "id": 4,
+    "name": "Iron Chest",
+    "craft": [],
+    "class": "Storage"
+  },
+  {
+    "id": 5,
+    "name": "Steel Chest",
+    "craft": [],
+    "class": "Storage"
+  },
+  {
+    "id": 6,
+    "name": "Storage tank",
+    "craft": [],
+    "class": "Storage"
+  },
+  {
+    "id": 7,
+    "name": "Transport belt",
+    "craft": [],
+    "class": "Belt transport system"
+  },
+  {
+    "id": 8,
+    "name": "Fast transport belt",
+    "craft": [],
+    "class": "Belt transport system"
+  },
+  {
+    "id": 9,
+    "name": "Express transport belt",
+    "craft": [],
+    "class": "Belt transport system"
+  },
+  {
+    "id": 10,
+    "name": "Underground belt",
+    "craft": [],
+    "class": "Belt transport system"
+  },
+  {
+    "id": 11,
+    "name": "Fast underground belt",
+    "craft": [],
+    "class": "Belt transport system"
+  },
+  {
+    "id": 12,
+    "name": "Express underground belt",
+    "craft": [],
+    "class": "Belt transport system"
+  },
+  {
+    "id": 13,
+    "name": "Splitter",
+    "craft": [],
+    "class": "Belt transport system"
+  },
+  {
+    "id": 14,
+    "name": "Fast splitter",
+    "craft": [],
+    "class": "Belt transport system"
+  },
+  {
+    "id": 15,
+    "name": "Express splitter",
+    "craft": [],
+    "class": "Belt transport system"
+  },
+  {
+    "id": 16,
+    "name": "Burner inserter",
+    "craft": [],
+    "class": "Inserters"
+  },
+  {
+    "id": 17,
+    "name": "Inserter",
+    "craft": [],
+    "class": "Inserters"
+  },
+  {
+    "id": 18,
+    "name": "Long-handed inserter",
+    "craft": [],
+    "class": "Inserters"
+  },
+  {
+    "id": 19,
+    "name": "Fast inserter",
+    "craft": [],
+    "class": "Inserters"
+  },
+  {
+    "id": 20,
+    "name": "Filter inserter",
+    "craft": [],
+    "class": "Inserters"
+  },
+  {
+    "id": 21,
+    "name": "Stack inserter",
+    "craft": [],
+    "class": "Inserters"
+  },
+  {
+    "id": 22,
+    "name": "Stack filter inserter",
+    "craft": [],
+    "class": "Inserters"
+  },
+  {
+    "id": 23,
+    "name": "Small electric pole",
+    "craft": [],
+    "class": "Electric system"
+  },
+  {
+    "id": 24,
+    "name": "Medium electric pole",
+    "craft": [],
+    "class": "Electric system"
+  },
+  {
+    "id": 25,
+    "name": "Big electric pole",
+    "craft": [],
+    "class": "Electric system"
+  },
+  {
+    "id": 26,
+    "name": "Substation",
+    "craft": [],
+    "class": "Electric system"
+  },
+  {
+    "id": 27,
+    "name": "Pipe",
+    "craft": [],
+    "class": "Fluid system"
+  },
+  {
+    "id": 28,
+    "name": "Pipe to ground",
+    "craft": [],
+    "class": "Fluid system"
+  },
+  {
+    "id": 29,
+    "name": "Pump",
+    "craft": [],
+    "class": "Fluid system"
+  },
+  {
+    "id": 30,
+    "name": "Rail",
+    "craft": [],
+    "class": "Railway"
+  },
+  {
+    "id": 31,
+    "name": "Train stop",
+    "craft": [],
+    "class": "Railway"
+  },
+  {
+    "id": 32,
+    "name": "Rail signal",
+    "craft": [],
+    "class": "Railway"
+  },
+  {
+    "id": 33,
+    "name": "Rail chain signal",
+    "craft": [],
+    "class": "Railway"
+  },
+  {
+    "id": 34,
+    "name": "Locomotive",
+    "craft": [],
+    "class": "Railway"
+  },
+  {
+    "id": 35,
+    "name": "Cargo wagon",
+    "craft": [],
+    "class": "Railway"
+  },
+  {
+    "id": 36,
+    "name": "Fluid wagon",
+    "craft": [],
+    "class": "Railway"
+  },
+  {
+    "id": 37,
+    "name": "Artillery wagon",
+    "craft": [],
+    "class": "Railway"
+  },
+  {
+    "id": 38,
+    "name": "Car",
+    "craft": [],
+    "class": "Transport"
+  },
+  {
+    "id": 39,
+    "name": "Tank",
+    "craft": [],
+    "class": "Transport"
+  },
+  {
+    "id": 40,
+    "name": "Spidertron",
+    "craft": [],
+    "class": "Transport"
+  },
+  {
+    "id": 2,
+    "name": "Spidertron remote",
+    "craft": [],
+    "class": "Transport"
+  },
+  {
+    "id": 41,
+    "name": "Logistic robot",
+    "craft": [],
+    "class": "Logistic network"
+  },
+  {
+    "id": 42,
+    "name": "Construction robot",
+    "craft": [],
+    "class": "Logistic network"
+  },
+  {
+    "id": 43,
+    "name": "Active provider chest",
+    "craft": [],
+    "class": "Logistic network"
+  },
+  {
+    "id": 44,
+    "name": "Passive provider chest",
+    "craft": [],
+    "class": "Logistic network"
+  },
+  {
+    "id": 45,
+    "name": "Storage chest",
+    "craft": [],
+    "class": "Logistic network"
+  },
+  {
+    "id": 46,
+    "name": "Buffer chest",
+    "craft": [],
+    "class": "Logistic network"
+  },
+  {
+    "id": 47,
+    "name": "Requester chest",
+    "craft": [],
+    "class": "Logistic network"
+  },
+  {
+    "id": 48,
+    "name": "Roboport",
+    "craft": [],
+    "class": "Logistic network"
+  },
+  {
+    "id": 49,
+    "name": "Small lamp",
+    "craft": [],
+    "class": "Circuit network"
+  },
+  {
+    "id": 50,
+    "name": "Red wire",
+    "craft": [],
+    "class": "Circuit network"
+  },
+  {
+    "id": 51,
+    "name": "Green wire",
+    "craft": [],
+    "class": "Circuit network"
+  },
+  {
+    "id": 52,
+    "name": "Arithmetic combinator",
+    "craft": [],
+    "class": "Circuit network"
+  },
+  {
+    "id": 53,
+    "name": "Decider combinator",
+    "craft": [],
+    "class": "Circuit network"
+  },
+  {
+    "id": 54,
+    "name": "Constant combinator",
+    "craft": [],
+    "class": "Circuit network"
+  },
+  {
+    "id": 55,
+    "name": "Power switch",
+    "craft": [],
+    "class": "Circuit network"
+  },
+  {
+    "id": 56,
+    "name": "Programmable speaker",
+    "craft": [],
+    "class": "Circuit network"
+  },
+  {
+    "id": 57,
+    "name": "Stone brick",
+    "craft": [],
+    "class": "Terrain"
+  },
+  {
+    "id": 58,
+    "name": "Concrete",
+    "craft": [],
+    "class": "Terrain"
+  },
+  {
+    "id": 59,
+    "name": "Hazard concrete",
+    "craft": [],
+    "class": "Terrain"
+  },
+  {
+    "id": 60,
+    "name": "Refined concrete",
+    "craft": [],
+    "class": "Terrain"
+  },
+  {
+    "id": 61,
+    "name": "Refined hazard concrete",
+    "craft": [],
+    "class": "Terrain"
+  },
+  {
+    "id": 62,
+    "name": "Landfill",
+    "craft": [],
+    "class": "Terrain"
+  },
+  {
+    "id": 63,
+    "name": "Cliff explosives",
+    "craft": [],
+    "class": "Terrain"
+  },
+  {
+    "id": 64,
+    "name": "Repair pack",
+    "craft": [],
+    "class": "Tools"
+  },
+  {
+    "id": 65,
+    "name": "Boiler",
+    "craft": [],
+    "class": "Electricity"
+  },
+  {
+    "id": 66,
+    "name": "Steam engine",
+    "craft": [],
+    "class": "Electricity"
+  },
+  {
+    "id": 67,
+    "name": "Solar panel",
+    "craft": [],
+    "class": "Electricity"
+  },
+  {
+    "id": 68,
+    "name": "Accumulator",
+    "craft": [],
+    "class": "Electricity"
+  },
+  {
+    "id": 69,
+    "name": "Nuclear reactor",
+    "craft": [],
+    "class": "Electricity"
+  },
+  {
+    "id": 70,
+    "name": "Heat exchanger",
+    "craft": [],
+    "class": "Electricity"
+  },
+  {
+    "id": 71,
+    "name": "Heat pipe",
+    "craft": [],
+    "class": "Electricity"
+  },
+  {
+    "id": 72,
+    "name": "Steam turbine",
+    "craft": [],
+    "class": "Electricity"
+  },
+  {
+    "id": 73,
+    "name": "Burner mining drill",
+    "craft": [],
+    "class": "Resource extraction"
+  },
+  {
+    "id": 74,
+    "name": "Electric mining drill",
+    "craft": [],
+    "class": "Resource extraction"
+  },
+  {
+    "id": 75,
+    "name": "Offshore pump",
+    "craft": [],
+    "class": "Resource extraction"
+  },
+  {
+    "id": 76,
+    "name": "Pumpjack",
+    "craft": [],
+    "class": "Resource extraction"
+  },
+  {
+    "id": 77,
+    "name": "Stone furnace",
+    "craft": [],
+    "class": "Furnaces"
+  },
+  {
+    "id": 78,
+    "name": "Steel furnace",
+    "craft": [],
+    "class": "Furnaces"
+  },
+  {
+    "id": 79,
+    "name": "Electric furnace",
+    "craft": [],
+    "class": "Furnaces"
+  },
+  {
+    "id": 80,
+    "name": "Assembling machine 1",
+    "craft": [],
+    "class": "Production"
+  },
+  {
+    "id": 81,
+    "name": "Assembling machine 2",
+    "craft": [],
+    "class": "Production"
+  },
+  {
+    "id": 82,
+    "name": "Assembling machine 3",
+    "craft": [],
+    "class": "Production"
+  },
+  {
+    "id": 83,
+    "name": "Oil refinery",
+    "craft": [],
+    "class": "Production"
+  },
+  {
+    "id": 84,
+    "name": "Chemical plant",
+    "craft": [],
+    "class": "Production"
+  },
+  {
+    "id": 85,
+    "name": "Centrifuge",
+    "craft": [],
+    "class": "Production"
+  },
+  {
+    "id": 86,
+    "name": "Lab",
+    "craft": [],
+    "class": "Production"
+  },
+  {
+    "id": 87,
+    "name": "Beacon",
+    "craft": [],
+    "class": "Module"
+  },
+  {
+    "id": 88,
+    "name": "Speed module",
+    "craft": [],
+    "class": "Module"
+  },
+  {
+    "id": 89,
+    "name": "Speed module 2",
+    "craft": [],
+    "class": "Module"
+  },
+  {
+    "id": 90,
+    "name": "Speed module 3",
+    "craft": [],
+    "class": "Module"
+  },
+  {
+    "id": 91,
+    "name": "Effectivity module",
+    "craft": [],
+    "class": "Module"
+  },
+  {
+    "id": 92,
+    "name": "Effectivity module 2",
+    "craft": [],
+    "class": "Module"
+  },
+  {
+    "id": 93,
+    "name": "Effectivity module 3",
+    "craft": [],
+    "class": "Module"
+  },
+  {
+    "id": 94,
+    "name": "Productivity module",
+    "craft": [],
+    "class": "Module"
+  },
+  {
+    "id": 95,
+    "name": "Productivity module 2",
+    "craft": [],
+    "class": "Module"
+  },
+  {
+    "id": 96,
+    "name": "Productivity module 3",
+    "craft": [],
+    "class": "Module"
+  },
+  {
+    "id": 97,
+    "name": "Rocket silo",
+    "craft": [],
+    "class": "Space related"
+  },
+  {
+    "id": 98,
+    "name": "Satellite",
+    "craft": [],
+    "class": "Space related"
+  },
+  {
+    "id": 99,
+    "name": "Crude oil",
+    "craft": [],
+    "class": "Fluids"
+  },
+  {
+    "id": 100,
+    "name": "Heavy oil",
+    "craft": [],
+    "class": "Fluids"
+  },
+  {
+    "id": 101,
+    "name": "Light oil",
+    "craft": [],
+    "class": "Fluids"
+  },
+  {
+    "id": 102,
+    "name": "Lubricant",
+    "craft": [],
+    "class": "Fluids"
+  },
+  {
+    "id": 103,
+    "name": "Petroleum gas",
+    "craft": [],
+    "class": "Fluids"
+  },
+  {
+    "id": 104,
+    "name": "Sulfuric acid",
+    "craft": [],
+    "class": "Fluids"
+  },
+  {
+    "id": 105,
+    "name": "Water",
+    "craft": [],
+    "class": "Fluids"
+  },
+  {
+    "id": 106,
+    "name": "Steam",
+    "craft": [],
+    "class": "Fluids"
+  },
+  {
+    "id": 107,
+    "name": "Wood",
+    "craft": [],
+    "class": "Resources"
+  },
+  {
+    "id": 108,
+    "name": "Coal",
+    "craft": [],
+    "class": "Resources"
+  },
+  {
+    "id": 109,
+    "name": "Stone",
+    "craft": [],
+    "class": "Resources"
+  },
+  {
+    "id": 110,
+    "name": "Iron ore",
+    "craft": [],
+    "class": "Resources"
+  },
+  {
+    "id": 111,
+    "name": "Copper ore",
+    "craft": [],
+    "class": "Resources"
+  },
+  {
+    "id": 112,
+    "name": "Uranium ore",
+    "craft": [],
+    "class": "Resources"
+  },
+  {
+    "id": 113,
+    "name": "Raw fish",
+    "craft": [],
+    "class": "Resources"
+  },
+  {
+    "id": 114,
+    "name": "Iron plate",
+    "craft": [],
+    "class": "Materials"
+  },
+  {
+    "id": 115,
+    "name": "Copper plate",
+    "craft": [],
+    "class": "Materials"
+  },
+  {
+    "id": 116,
+    "name": "Solid fuel",
+    "craft": [],
+    "class": "Materials"
+  },
+  {
+    "id": 117,
+    "name": "Steel plate",
+    "craft": [],
+    "class": "Materials"
+  },
+  {
+    "id": 118,
+    "name": "Plastic bar",
+    "craft": [],
+    "class": "Materials"
+  },
+  {
+    "id": 119,
+    "name": "Sulfur",
+    "craft": [],
+    "class": "Materials"
+  },
+  {
+    "id": 120,
+    "name": "Battery",
+    "craft": [],
+    "class": "Materials"
+  },
+  {
+    "id": 121,
+    "name": "Explosives",
+    "craft": [],
+    "class": "Materials"
+  },
+  {
+    "id": 122,
+    "name": "Crude oil barrel",
+    "craft": [],
+    "class": "Barrels"
+  },
+  {
+    "id": 123,
+    "name": "Heavy oil barrel",
+    "craft": [],
+    "class": "Barrels"
+  },
+  {
+    "id": 124,
+    "name": "Light oil barrel",
+    "craft": [],
+    "class": "Barrels"
+  },
+  {
+    "id": 125,
+    "name": "Lubricant barrel",
+    "craft": [],
+    "class": "Barrels"
+  },
+  {
+    "id": 126,
+    "name": "Petroleum gas barrel",
+    "craft": [],
+    "class": "Barrels"
+  },
+  {
+    "id": 127,
+    "name": "Sulfuric acid barrel",
+    "craft": [],
+    "class": "Barrels"
+  },
+  {
+    "id": 128,
+    "name": "Water barrel",
+    "craft": [],
+    "class": "Barrels"
+  },
+  {
+    "id": 129,
+    "name": "Copper cable",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 130,
+    "name": "Iron stick",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 131,
+    "name": "Iron gear wheel",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 132,
+    "name": "Empty barrel",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 133,
+    "name": "Electronic circuit",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 134,
+    "name": "Advanced circuit",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 135,
+    "name": "Processing unit",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 136,
+    "name": "Engine unit",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 137,
+    "name": "Electric engine unit",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 138,
+    "name": "Flying robot frame",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 139,
+    "name": "Rocket part",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 140,
+    "name": "Rocket control unit",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 141,
+    "name": "Low density structure",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 142,
+    "name": "Rocket fuel",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 143,
+    "name": "Nuclear fuel",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 144,
+    "name": "Uranium-235",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 145,
+    "name": "Uranium-238",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 146,
+    "name": "Uranium fuel cell",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 147,
+    "name": "Used up uranium fuel cell",
+    "craft": [],
+    "class": "Crafting components"
+  },
+  {
+    "id": 148,
+    "name": "Automation science pack",
+    "craft": [],
+    "class": "Science packs"
+  },
+  {
+    "id": 149,
+    "name": "Logistic science pack",
+    "craft": [],
+    "class": "Science packs"
+  },
+  {
+    "id": 150,
+    "name": "Military science pack",
+    "craft": [],
+    "class": "Science packs"
+  },
+  {
+    "id": 151,
+    "name": "Chemical science pack",
+    "craft": [],
+    "class": "Science packs"
+  },
+  {
+    "id": 152,
+    "name": "Production science pack",
+    "craft": [],
+    "class": "Science packs"
+  },
+  {
+    "id": 153,
+    "name": "Utility science pack",
+    "craft": [],
+    "class": "Science packs"
+  },
+  {
+    "id": 154,
+    "name": "Space science pack",
+    "craft": [],
+    "class": "Science packs"
+  },
+  {
+    "id": 155,
+    "name": "Pistol",
+    "craft": [],
+    "class": "Weapons"
+  },
+  {
+    "id": 156,
+    "name": "Submachine gun",
+    "craft": [],
+    "class": "Weapons"
+  },
+  {
+    "id": 157,
+    "name": "Shotgun",
+    "craft": [],
+    "class": "Weapons"
+  },
+  {
+    "id": 158,
+    "name": "Combat shotgun",
+    "craft": [],
+    "class": "Weapons"
+  },
+  {
+    "id": 159,
+    "name": "Rocket launcher",
+    "craft": [],
+    "class": "Weapons"
+  },
+  {
+    "id": 160,
+    "name": "Flamethrower",
+    "craft": [],
+    "class": "Weapons"
+  },
+  {
+    "id": 161,
+    "name": "Land mine",
+    "craft": [],
+    "class": "Weapons"
+  },
+  {
+    "id": 162,
+    "name": "Firearm magazine",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 163,
+    "name": "Piercing rounds magazine",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 164,
+    "name": "Uranium rounds magazine",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 165,
+    "name": "Shotgun shells",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 166,
+    "name": "Piercing shotgun shells",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 167,
+    "name": "Cannon shell",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 168,
+    "name": "Explosive cannon shell",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 169,
+    "name": "Uranium cannon shell",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 170,
+    "name": "Explosive uranium cannon shell",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 171,
+    "name": "Artillery shell",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 172,
+    "name": "Rocket",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 173,
+    "name": "Explosive rocket",
+    "craft": [],
+    "class": "Ammo"
+  },{
+  "id": 174,
+  "name": "Atomic bomb",
+  "craft": [],
+  "class": "Ammo"
+},
+  {
+    "id": 175,
+    "name": "Flamethrower ammo",
+    "craft": [],
+    "class": "Ammo"
+  },
+  {
+    "id": 176,
+    "name": "Grenade",
+    "craft": [],
+    "class": "Capsules"
+  },
+  {
+    "id": 177,
+    "name": "Cluster grenade",
+    "craft": [],
+    "class": "Capsules"
+  },
+  {
+    "id": 178,
+    "name": "Poison capsule",
+    "craft": [],
+    "class": "Capsules"
+  },
+  {
+    "id": 179,
+    "name": "Slowdown capsule",
+    "craft": [],
+    "class": "Capsules"
+  },
+  {
+    "id": 180,
+    "name": "Defender capsule",
+    "craft": [],
+    "class": "Capsules"
+  },
+  {
+    "id": 181,
+    "name": "Distractor capsule",
+    "craft": [],
+    "class": "Capsules"
+  },
+  {
+    "id": 182,
+    "name": "Destroyer capsule",
+    "craft": [],
+    "class": "Capsules"
+  },
+  {
+    "id": 183,
+    "name": "Light armor",
+    "craft": [],
+    "class": "Armor"
+  },
+  {
+    "id": 184,
+    "name": "Heavy armor",
+    "craft": [],
+    "class": "Armor"
+  },
+  {
+    "id": 185,
+    "name": "Modular armor",
+    "craft": [],
+    "class": "Armor"
+  },
+  {
+    "id": 186,
+    "name": "Power armor",
+    "craft": [],
+    "class": "Armor"
+  },
+  {
+    "id": 187,
+    "name": "Power armor MK2",
+    "craft": [],
+    "class": "Armor"
+  },
+  {
+    "id": 188,
+    "name": "Portable solar panel",
+    "craft": [],
+    "class": "Equipment modules"
+  },
+  {
+    "id": 189,
+    "name": "Portable fusion reactor",
+    "craft": [],
+    "class": "Equipment modules"
+  },
+  {
+    "id": 190,
+    "name": "Personal battery",
+    "craft": [],
+    "class": "Equipment modules"
+  },
+  {
+    "id": 191,
+    "name": "Personal battery MK2",
+    "craft": [],
+    "class": "Equipment modules"
+  },
+  {
+    "id": 192,
+    "name": "Belt immunity equipment",
+    "craft": [],
+    "class": "Equipment modules"
+  },
+  {
+    "id": 193,
+    "name": "Exoskeleton",
+    "craft": [],
+    "class": "Equipment modules"
+  },
+  {
+    "id": 194,
+    "name": "Personal roboport",
+    "craft": [],
+    "class": "Equipment modules"
+  },
+  {
+    "id": 195,
+    "name": "Personal roboport MK2",
+    "craft": [],
+    "class": "Equipment modules"
+  },
+  {
+    "id": 196,
+    "name": "Nightvision",
+    "craft": [],
+    "class": "Equipment modules"
+  },
+  {
+    "id": 197,
+    "name": "Energy shield",
+    "craft": [],
+    "class": "Combat equipment"
+  },
+  {
+    "id": 198,
+    "name": "Energy shield MK2",
+    "craft": [],
+    "class": "Combat equipment"
+  },
+  {
+    "id": 199,
+    "name": "Personal laser defense",
+    "craft": [],
+    "class": "Combat equipment"
+  },
+  {
+    "id": 200,
+    "name": "Discharge defense",
+    "craft": [],
+    "class": "Combat equipment"
+  },
+  {
+    "id": 201,
+    "name": "Discharge defense remote",
+    "craft": [],
+    "class": "Combat equipment"
+  },
+  {
+    "id": 202,
+    "name": "Wall",
+    "craft": [],
+    "class": "Defense"
+  },
+  {
+    "id": 203,
+    "name": "Gates",
+    "craft": [],
+    "class": "Defense"
+  },
+  {
+    "id": 204,
+    "name": "Gun turret",
+    "craft": [],
+    "class": "Defense"
+  },
+  {
+    "id": 205,
+    "name": "Laser turret",
+    "craft": [],
+    "class": "Defense"
+  },
+  {
+    "id": 206,
+    "name": "Flamethrower turret",
+    "craft": [],
+    "class": "Defense"
+  },
+  {
+    "id": 207,
+    "name": "Artillery turret",
+    "craft": [],
+    "class": "Defense"
+  },
+  {
+    "id": 208,
+    "name": "Artillery targeting remote",
+    "craft": [],
+    "class": "Defense"
+  },
+  {
+    "id": 209,
+    "name": "Radar",
+    "craft": [],
+    "class": "Defense"
+  }
+]

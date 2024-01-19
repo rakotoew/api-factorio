@@ -9,8 +9,9 @@ async function bootstrap() {
       .setTitle('Factorio API')
       .setDescription('Api for factorio items and craft (Vanilla for the time being')
       .setVersion('1.0')
-      .addTag('factorio')
+      .addTag('Factorio')
       .build();
+  app.enableCors();
   const document = SwaggerModule.createDocument(app, config);
   SwaggerModule.setup('api', app, document)
   await app.listen(3000);
