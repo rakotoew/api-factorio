@@ -1,8 +1,8 @@
 import {Injectable} from '@nestjs/common';
 import * as fs from 'fs';
 import {ClassModel} from './class.model'
-import {Item, SimpleItem} from "./Items.model";
-import { join } from 'path';
+import {Craft, Item, SimpleItem} from "./Items.model";
+import {join} from 'path';
 
 @Injectable()
 export class ItemsService {
@@ -13,6 +13,11 @@ export class ItemsService {
 
     getItemsData(): Item[] {
         const itemDataPath = join(__dirname, '..', '..','src', 'data', 'items.json');
+        return JSON.parse(fs.readFileSync(itemDataPath, 'utf8'));
+    }
+
+    getCraftsData(): Craft[] {
+        const itemDataPath = join(__dirname, '..', '..','src', 'data', 'crafts.json');
         return JSON.parse(fs.readFileSync(itemDataPath, 'utf8'));
     }
 
@@ -41,8 +46,12 @@ export class ItemsService {
         const items = this.getItemsData();
         const data: SimpleItem[] = [];
         items.forEach((item)=> {
-            data.push({id: item.id, name: item.name, icon: item.icons})
+            data.push({id: item.id, name: item.name, icon: item.icons, craft: item.craft})
         })
         return data;
+    }
+
+    getCrafts(): Craft[]{
+        return this.getCraftsData();
     }
 }

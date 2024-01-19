@@ -2,119 +2,119 @@
   {
     "id": 3,
     "name": "Wooden Chest",
-    "craft": [],
+    "craft": [1],
     "class": "Storage",
     "icons": "/icons/32px_Wooden_chest.png"
   },
   {
     "id": 4,
     "name": "Iron Chest",
-    "craft": [],
+    "craft": [2],
     "class": "Storage",
     "icons": "/icons/32px_Iron_chest.png"
   },
   {
     "id": 5,
     "name": "Steel Chest",
-    "craft": [],
+    "craft": [3],
     "class": "Storage",
     "icons": "/icons/32px_Steel_chest.png"
   },
   {
     "id": 6,
     "name": "Storage tank",
-    "craft": [],
+    "craft": [4],
     "class": "Storage",
     "icons": "/icons/32px_Storage_tank.png"
   },
   {
     "id": 7,
     "name": "Transport belt",
-    "craft": [],
+    "craft": [5],
     "class": "Belt transport system",
     "icons": "/icons/32px_Transport_belt.png"
   },
   {
     "id": 8,
     "name": "Fast transport belt",
-    "craft": [],
+    "craft": [6],
     "class": "Belt transport system",
     "icons": "/icons/32px_Fast_transport_belt.png"
   },
   {
     "id": 9,
     "name": "Express transport belt",
-    "craft": [],
+    "craft": [7],
     "class": "Belt transport system",
     "icons": "/icons/32px_Express_transport_belt.png"
   },
   {
     "id": 10,
     "name": "Underground belt",
-    "craft": [],
+    "craft": [8],
     "class": "Belt transport system",
     "icons": "/icons/32px_Underground_belt.png"
   },
   {
     "id": 11,
     "name": "Fast underground belt",
-    "craft": [],
+    "craft": [9],
     "class": "Belt transport system",
     "icons": "/icons/32px_Fast_underground_belt.png"
   },
   {
     "id": 12,
     "name": "Express underground belt",
-    "craft": [],
+    "craft": [10],
     "class": "Belt transport system",
     "icons": "/icons/32px_Express_underground_belt.png"
   },
   {
     "id": 13,
     "name": "Splitter",
-    "craft": [],
+    "craft": [11],
     "class": "Belt transport system",
     "icons": "/icons/32px_Splitter.png"
   },
   {
     "id": 14,
     "name": "Fast splitter",
-    "craft": [],
+    "craft": [12],
     "class": "Belt transport system",
     "icons": "/icons/32px_Fast_splitter.png"
   },
   {
     "id": 15,
     "name": "Express splitter",
-    "craft": [],
+    "craft": [13],
     "class": "Belt transport system",
     "icons": "/icons/32px_Express_splitter.png"
   },
   {
     "id": 16,
     "name": "Burner inserter",
-    "craft": [],
+    "craft": [14],
     "class": "Inserters",
     "icons": "/icons/32px_Burner_inserter.png"
   },
   {
     "id": 17,
     "name": "Inserter",
-    "craft": [],
+    "craft": [15],
     "class": "Inserters",
     "icons": "/icons/32px_Inserter.png"
   },
   {
     "id": 18,
     "name": "Long-handed inserter",
-    "craft": [],
+    "craft": [16],
     "class": "Inserters",
     "icons": "/icons/32px_Long-handed_inserter.png"
   },
   {
     "id": 19,
     "name": "Fast inserter",
-    "craft": [],
+    "craft": [17],
     "class": "Inserters",
     "icons": "/icons/32px_Fast_inserter.png"
   },

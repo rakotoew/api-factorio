@@ -19,4 +19,10 @@ export class ItemsController {
     getItems() {
         return this.itemsService.getListItems();
     }
+
+    @Get("crafts")
+    @ApiOperation({summary: "Craft List", description: 'Return a list of all crafts'})
+    getCrafts() {
+        return this.itemsService.getCrafts();
+    }
 }
