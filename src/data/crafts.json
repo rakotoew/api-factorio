@@ -1,11 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Wooden chest",
+    "name": "Wooden Chest",
     "time": 0.5,
     "ingredients": [
       {
-        "id": 1,
         "name": "Wood",
         "amount": 2
       }
@@ -13,7 +12,7 @@
     },
   {
     "id": 2,
-    "name": "Iron chest",
+    "name": "Iron Chest",
     "time": 0.5,
     "ingredients": [
       {
@@ -24,7 +23,7 @@
   },
   {
     "id": 3,
-    "name": "Steel chest",
+    "name": "Steel Chest",
     "time": 0.5,
     "ingredients": [
       {
@@ -90,6 +89,10 @@
       {
         "name": "Fast transport belt",
         "amount": 1
+      },
+      {
+        "name": "Lubricant",
+        "amount": 20
       }
     ]
   },
@@ -135,6 +138,10 @@
       {
         "name": "Fast underground belt",
         "amount": 2
+      },
+      {
+        "name": "Lubricant",
+        "amount": 40
       }
     ]
   },
@@ -192,6 +199,10 @@
       {
         "name": "Advanced circuit",
         "amount": 10
+      },
+      {
+        "name": "Lubricant",
+        "amount": 80
       }
     ]
   },
@@ -231,7 +242,7 @@
   },
   {
     "id": 16,
-    "name": "Long handed inserter",
+    "name": "Long-handed inserter",
     "time": 0.5,
     "ingredients": [
       {
@@ -266,5 +277,3196 @@
         "amount": 1
       }
       ]
+  },
+  {
+    "id": 18,
+    "name": "Filter inserter",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Fast inserter",
+        "amount": 1
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Stack inserter",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 15
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 15
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 1
+      },
+      {
+        "name": "Fast inserter",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Stack filter inserter",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Stack inserter",
+        "amount": 1
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Small electric pole",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Wood",
+        "amount": 1
+      },
+      {
+        "name": "Copper cable",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Medium electric pole",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 2
+      },
+      {
+        "name": "Iron stick",
+        "amount": 4
+      },
+      {
+        "name": "Copper plate",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Big electric pole",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 5
+      },
+      {
+        "name": "Copper plate",
+        "amount": 5
+      },
+        {
+            "name": "Iron stick",
+            "amount": 8
+        }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Substation",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 10
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      },
+      {
+        "name": "Copper plate",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Pipe",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Pipe to ground",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Pipe",
+        "amount": 10
+      }
+      ]
+  },
+  {
+    "id": 27,
+    "name": "Pump",
+    "time": 2,
+    "ingredients": [
+      {
+        "name": "Engine unit",
+        "amount": 1
+      },
+      {
+        "name": "Pipe",
+        "amount": 1
+      },
+      {
+        "name": "Steel plate",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Rail",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": 1
+      },
+      {
+        "name": "Steel plate",
+        "amount": 1
+      },
+      {
+        "name": "Iron stick",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Train stop",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      },
+      {
+        "name": "Iron plate",
+        "amount": 6
+      },
+      {
+        "name": "Steel plate",
+        "amount": 3
+      },
+        {
+            "name": "Iron stick",
+            "amount": 6
+        }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Rail signal",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 1
+      },
+      {
+        "name": "Iron plate",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Rail chain signal",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 1
+      },
+      {
+        "name": "Iron plate",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Locomotive",
+    "time": 4,
+    "ingredients": [
+      {
+        "name": "Engine unit",
+        "amount": 20
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 10
+      },
+      {
+        "name": "Steel plate",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Cargo wagon",
+    "time": 1,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 10
+      },
+      {
+        "name": "Iron plate",
+        "amount": 20
+      },
+      {
+        "name": "Steel plate",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Fluid wagon",
+    "time": 1.5,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 10
+      },
+      {
+        "name": "Steel plate",
+        "amount": 16
+      },
+      {
+        "name": "Pipe",
+        "amount": 8
+      },
+      {
+        "name": "Storage tank",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Artillery wagon",
+    "time": 4,
+    "ingredients": [
+      {
+        "name": "Engine unit",
+        "amount": 64
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 10
+      },
+      {
+        "name": "Steel plate",
+        "amount": 40
+      },
+      {
+        "name": "Pipe",
+        "amount": 16
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Car",
+    "time": 2,
+    "ingredients": [
+      {
+        "name": "Engine unit",
+        "amount": 8
+      },
+      {
+        "name": "Iron plate",
+        "amount": 20
+      },
+      {
+        "name": "Steel plate",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Tank",
+    "time": 5,
+    "ingredients": [
+      {
+        "name": "Engine unit",
+        "amount": 32
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 15
+      },
+      {
+        "name": "Steel plate",
+        "amount": 50
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Spidertron",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Raw fish",
+        "amount": 1
+      },
+      {
+        "name": "Rocket control unit",
+        "amount": 16
+      },
+      {
+        "name": "Low density structure",
+        "amount": 64
+      },
+      {
+        "name": "Processing unit",
+        "amount": 128
+      },
+      {
+        "name": "Electric engine unit",
+        "amount": 150
+      },
+      {
+        "name": "Efficiency module 3",
+        "amount": 2
+      },
+      {
+        "name": "Rocket launcher",
+        "amount": 4
+      },
+      {
+        "name": "Portable fusion reactor",
+        "amount": 2
+      },
+      {
+        "name": "Exoskeleton",
+        "amount": 4
+      },
+      {
+        "name": "Radar",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Spidertron remote",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Rocket control unit",
+        "amount": 1
+      },
+      {
+        "name": "Radar",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Logistic robot",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Flying robot frame",
+        "amount": 1
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Construction robot",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Flying robot frame",
+        "amount": 1
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Active provider chest",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Steel Chest",
+        "amount": 1
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 3
+      },
+        {
+            "name": "Advanced circuit",
+            "amount": 1
+        }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Passive provider chest",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Steel Chest",
+        "amount": 1
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 3
+      },
+        {
+            "name": "Advanced circuit",
+            "amount": 1
+        }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Storage chest",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Steel Chest",
+        "amount": 1
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 3
+      },
+        {
+            "name": "Advanced circuit",
+            "amount": 1
+        }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Buffer chest",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Steel Chest",
+        "amount": 1
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 3
+      },
+        {
+            "name": "Advanced circuit",
+            "amount": 1
+        }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Requester chest",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Steel Chest",
+        "amount": 1
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 3
+      },
+        {
+            "name": "Advanced circuit",
+            "amount": 1
+        }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Roboport",
+    "time": 5,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 45
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 45
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 45
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Small lamp",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 1
+      },
+      {
+        "name": "Copper cable",
+        "amount": 3
+      },
+      {
+        "name": "Iron plate",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Red wire",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 1
+      },
+      {
+        "name": "Copper cable",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Green wire",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 1
+      },
+      {
+        "name": "Copper cable",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Arithmetic combinator",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      },
+      {
+        "name": "Copper cable",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Decider combinator",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      },
+      {
+        "name": "Copper cable",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Constant combinator",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      },
+      {
+        "name": "Copper cable",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Power switch",
+    "time": 2,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 2
+      },
+      {
+        "name": "Iron plate",
+        "amount": 5
+      },
+      {
+        "name": "Copper cable",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Programmable speaker",
+    "time": 2,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 3
+      },
+      {
+        "name": "Copper cable",
+        "amount": 5
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 4
+      },
+      {
+        "name": "Iron stick",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Stone brick",
+    "time": 3.2,
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Concrete",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Stone brick",
+        "amount": 5
+      },
+      {
+        "name": "Iron ore",
+        "amount": 1
+      },
+      {
+        "name": "Water",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Hazard concrete",
+    "time": 0.25,
+    "ingredients": [
+      {
+        "name": "Concrete",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Refined concrete",
+    "time": 15,
+    "ingredients": [
+      {
+        "name": "Concrete",
+        "amount": 20
+      },
+      {
+        "name": "Steel plate",
+        "amount": 1
+      },
+      {
+        "name": "Water",
+        "amount": 100
+      },
+        {
+            "name": "Iron stick",
+            "amount": 8
+        }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Refined hazard concrete",
+    "time": 0.25,
+    "ingredients": [
+      {
+        "name": "Refined concrete",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Landfill",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Cliff explosives",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Explosives",
+        "amount": 10
+      },
+      {
+        "name": "Empty barrel",
+        "amount": 1
+      },
+        {
+            "name": "Grenade",
+            "amount": 1
+        }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Repair pack",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 2
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Boiler",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Stone furnace",
+        "amount": 1
+      },
+      {
+        "name": "Pipe",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Steam engine",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 8
+      },
+      {
+        "name": "Pipe",
+        "amount": 5
+      },
+      {
+        "name": "Iron plate",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Solar panel",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 5
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 15
+      },
+      {
+        "name": "Copper plate",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Accumulator",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Battery",
+        "amount": 5
+      },
+      {
+        "name": "Iron plate",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Nuclear reactor",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Concrete",
+        "amount": 500
+      },
+      {
+        "name": "Steel plate",
+        "amount": 500
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 500
+      },
+      {
+        "name": "Copper plate",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Heat pipe",
+    "time": 1,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 10
+      },
+      {
+        "name": "Copper plate",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Heat exchanger",
+    "time": 3,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 10
+      },
+      {
+        "name": "Copper plate",
+        "amount": 100
+      },
+      {
+        "name": "Pipe",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Steam turbine",
+    "time": 3,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 50
+      },
+      {
+        "name": "Copper plate",
+        "amount": 50
+      },
+      {
+        "name": "Pipe",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Burner mining drill",
+    "time": 2,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 3
+      },
+      {
+        "name": "Stone furnace",
+        "amount": 1
+      },
+        {
+            "name": "Iron plate",
+            "amount": 3
+        }
+      ]
+  },
+  {
+    "id": 73,
+    "name": "Electric mining drill",
+    "time": 2,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 3
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 5
+      },
+      {
+        "name": "Iron plate",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Offshore pump",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 1
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 2
+      },
+      {
+        "name": "Pipe",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Pumpjack",
+    "time": 5,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 5
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 10
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      },
+      {
+        "name": "Pipe",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Stone furnace",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Steel furnace",
+    "time": 3,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 6
+      },
+      {
+        "name": "Stone brick",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Electric furnace",
+    "time": 5,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 10
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      },
+      {
+        "name": "Stone brick",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Assembling machine 1",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 9
+      },
+      {
+        "name": "Iron plate",
+        "amount": 5
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Assembling machine 2",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 2
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 5
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 3
+      },
+      {
+        "name": "Assembling machine 1",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Assembling machine 3",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Speed module",
+        "amount": 4
+      },
+      {
+        "name": "Assembling machine 2",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Oil refinery",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 15
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 10
+      },
+      {
+        "name": "Stone brick",
+        "amount": 10
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 10
+      },
+      {
+        "name": "Pipe",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Chemical plant",
+    "time": 5,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 5
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 5
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      },
+      {
+        "name": "Pipe",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Centrifuge",
+    "time": 4,
+    "ingredients": [
+      {
+        "name": "Concrete",
+        "amount": 100
+      },
+      {
+        "name": "Steel plate",
+        "amount": 50
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 100
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Lab",
+    "time": 2,
+    "ingredients": [
+      {
+        "name": "Transport belt",
+        "amount": 4
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 10
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Beacon",
+    "time": 15,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 20
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 20
+      },
+      {
+        "name": "Copper cable",
+        "amount": 10
+      },
+      {
+        "name": "Steel plate",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Speed module",
+    "time": 15,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Speed module 2",
+    "time": 30,
+    "ingredients": [
+      {
+        "name": "Speed module",
+        "amount": 4
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      },
+      {
+        "name": "Processing unit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Speed module 3",
+    "time": 60,
+    "ingredients": [
+      {
+        "name": "Speed module 2",
+        "amount": 5
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      },
+      {
+        "name": "Processing unit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Effeciency module",
+    "time": 15,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Effeciency module 2",
+    "time": 30,
+    "ingredients": [
+      {
+        "name": "Effeciency module",
+        "amount": 4
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      },
+      {
+        "name": "Processing unit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Effeciency module 3",
+    "time": 60,
+    "ingredients": [
+      {
+        "name": "Effeciency module 2",
+        "amount": 5
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      },
+      {
+        "name": "Processing unit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Productivity module",
+    "time": 15,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Productivity module 2",
+    "time": 30,
+    "ingredients": [
+      {
+        "name": "Productivity module",
+        "amount": 4
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      },
+      {
+        "name": "Processing unit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Productivity module 3",
+    "time": 60,
+    "ingredients": [
+      {
+        "name": "Productivity module 2",
+        "amount": 5
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      },
+      {
+        "name": "Processing unit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+      "id": 96,
+    "name": "Rocket silo",
+    "time": 30,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 1000
+      },
+      {
+        "name": "Concrete",
+        "amount": 1000
+      },
+      {
+        "name": "Pipe",
+        "amount": 100
+      },
+      {
+        "name": "Processing unit",
+        "amount": 200
+      },
+      {
+        "name": "Electric engine unit",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Satellite",
+    "time": 5,
+    "ingredients": [
+      {
+        "name": "Low density structure",
+        "amount": 100
+      },
+      {
+        "name": "Solar panel",
+        "amount": 100
+      },
+      {
+        "name": "Accumulator",
+        "amount": 100
+      },
+      {
+        "name": "Radar",
+        "amount": 5
+      },
+      {
+        "name": "Processing unit",
+        "amount": 100
+      },
+      {
+        "name": "Rocket fuel",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Rocket part",
+    "time": 3,
+    "ingredients": [
+      {
+        "name": "Low density structure",
+        "amount": 10
+      },
+      {
+        "name": "Rocket fuel",
+        "amount": 10
+      },
+      {
+        "name": "Rocket control unit",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Sulfuric acid",
+    "time": 1,
+    "quantity": 50,
+    "ingredients": [
+      {
+        "name": "Sulfur",
+        "amount": 5
+      },
+      {
+        "name": "Iron plate",
+        "amount": 1
+      },
+      {
+        "name": "Water",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Basic oil processing",
+    "time": 5,
+    "quantity": 45,
+    "ingredients": [
+      {
+        "name": "Crude oil",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Heavy oil cracking to light oil",
+    "time": 2,
+    "quantity": 30,
+    "ingredients": [
+      {
+        "name": "Heavy oil",
+        "amount": 40
+      },
+      {
+        "name": "Water",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Light oil cracking to petroleum gas",
+    "time": 2,
+    "quantity": 20,
+    "ingredients": [
+      {
+        "name": "Light oil",
+        "amount": 30
+      },
+      {
+        "name": "Water",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Solid fuel",
+    "time": 2,
+    "ingredients": [
+      {
+        "name": "Light oil",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Solid fuel",
+    "time": 2,
+    "ingredients": [
+      {
+        "name": "Heavy oil",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Solid fuel",
+    "time": 2,
+    "ingredients": [
+      {
+        "name": "Petroleum gas",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Lubricant",
+    "time": 1,
+    "quantity": 10,
+    "ingredients": [
+      {
+        "name": "Heavy oil",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Iron plate",
+    "time": 3.2,
+    "ingredients": [
+      {
+        "name": "Iron ore",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Copper plate",
+    "time": 3.2,
+    "ingredients": [
+      {
+        "name": "Copper ore",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Steel plate",
+    "time": 16,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Plastic bar",
+    "time": 1,
+    "quantity": 2,
+    "ingredients": [
+      {
+        "name": "Petroleum gas",
+        "amount": 20
+      },
+      {
+        "name": "Coal",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Sulfur",
+    "time": 1,
+    "quantity": 2,
+    "ingredients": [
+      {
+        "name": "Water",
+        "amount": 30
+      },
+      {
+        "name": "Petroleum gas",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Battery",
+    "time": 4,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 1
+      },
+      {
+        "name": "Copper plate",
+        "amount": 1
+      },
+      {
+        "name": "Sulfuric acid",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Explosives",
+    "time": 5,
+    "quantity": 2,
+    "ingredients": [
+      {
+        "name": "Sulfur",
+        "amount": 1
+      },
+      {
+        "name": "Coal",
+        "amount": 1
+      },
+      {
+        "name": "Water",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Crude oil barrel",
+    "time": 1,
+    "ingredients": [
+      {
+        "name": "Empty barrel",
+        "amount": 1
+      },
+      {
+        "name": "Crude oil",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Heavy oil barrel",
+    "time": 1,
+    "ingredients": [
+      {
+        "name": "Empty barrel",
+        "amount": 1
+      },
+      {
+        "name": "Heavy oil",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Light oil barrel",
+    "time": 1,
+    "ingredients": [
+      {
+        "name": "Empty barrel",
+        "amount": 1
+      },
+      {
+        "name": "Light oil",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Lubricant barrel",
+    "time": 1,
+    "ingredients": [
+      {
+        "name": "Empty barrel",
+        "amount": 1
+      },
+      {
+        "name": "Lubricant",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Petroleum gas barrel",
+    "time": 1,
+    "ingredients": [
+      {
+        "name": "Empty barrel",
+        "amount": 1
+      },
+      {
+        "name": "Petroleum gas",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Sulfuric acid barrel",
+    "time": 1,
+    "ingredients": [
+      {
+        "name": "Empty barrel",
+        "amount": 1
+      },
+      {
+        "name": "Sulfuric acid",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Water barrel",
+    "time": 1,
+    "ingredients": [
+      {
+        "name": "Empty barrel",
+        "amount": 1
+      },
+      {
+        "name": "Water",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Copper cable",
+    "time": 0.5,
+    "quantity": 2,
+    "ingredients": [
+      {
+        "name": "Copper plate",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Iron stick",
+    "time": 0.5,
+    "quantity": 2,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Iron gear wheel",
+    "time": 0.5,
+    "quantity": 2,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Empty barrel",
+    "time": 1,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Electronic circuit",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 1
+      },
+      {
+        "name": "Copper cable",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Advanced circuit",
+    "time": 6,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 2
+      },
+      {
+        "name": "Plastic bar",
+        "amount": 2
+      },
+      {
+        "name": "Copper cable",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Processing unit",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 20
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 2
+      },
+      {
+        "name": "Sulfuric acid",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Engine unit",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 1
+      },
+      {
+        "name": "Pipe",
+        "amount": 2
+      },
+      {
+        "name": "Steel plate",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Electric engine unit",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Engine unit",
+        "amount": 1
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 2
+      },
+      {
+        "name": "Lubricant",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Flying robot frame",
+    "time": 20,
+    "ingredients": [
+      {
+        "name": "Electric engine unit",
+        "amount": 1
+      },
+      {
+        "name": "Battery",
+        "amount": 2
+      },
+      {
+        "name": "Steel plate",
+        "amount": 1
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Rocket control unit",
+    "time": 30,
+    "ingredients": [
+      {
+        "name": "Processing unit",
+        "amount": 1
+      },
+      {
+        "name": "Speed module",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Low density structure",
+    "time": 20,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 2
+      },
+      {
+        "name": "Copper plate",
+        "amount": 20
+      },
+      {
+        "name": "Plastic bar",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Rocket fuel",
+    "time": 30,
+    "ingredients": [
+      {
+        "name": "Solid fuel",
+        "amount": 10
+      },
+        {
+            "name": "Light oil",
+            "amount": 10
+        }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Nuclear fuel",
+    "time": 90,
+    "ingredients": [
+      {
+        "name": "Uranium-235",
+        "amount": 1
+      },
+      {
+        "name": "Rocket fuel",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Uranium fuel cell",
+    "time": 10,
+    "quantity": 10,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 10
+      },
+      {
+        "name": "Uranium-235",
+        "amount": 1
+      },
+      {
+        "name": "Uranium-238",
+        "amount": 19
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Uranium-238",
+    "time": 10,
+    "quantity": 3,
+    "ingredients": [
+
+      {
+        "name": "Used up uranium fuel cell",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Automation science pack",
+    "time": 5,
+    "ingredients": [
+      {
+        "name": "Copper plate",
+        "amount": 1
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Logistic science pack",
+    "time": 6,
+    "ingredients": [
+      {
+        "name": "Transport belt",
+        "amount": 1
+      },
+      {
+        "name": "Inserter",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Military science pack",
+    "time": 10,
+    "quantity": 2,
+    "ingredients": [
+      {
+        "name": "Piercing rounds magazine",
+        "amount": 1
+      },
+      {
+        "name": "Grenade",
+        "amount": 1
+      },
+      {
+        "name": "Wall",
+        "amount": 2
+      }
+      ]
+  },
+  {
+    "id": 140,
+    "name": "Chemical science pack",
+    "time": 24,
+    "quantity": 2,
+    "ingredients": [
+      {
+        "name": "Sulfur",
+        "amount": 1
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 3
+      },
+      {
+        "name": "Engine unit",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Production science pack",
+    "time": 21,
+    "quantity": 3,
+    "ingredients": [
+      {
+        "name": "Productivity module",
+        "amount": 1
+      },
+      {
+        "name": "Rail",
+        "amount": 1
+      },
+      {
+        "name": "Electric furnace",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Utility science pack",
+    "time": 21,
+    "quantity": 3,
+    "ingredients": [
+      {
+        "name": "Low density structure",
+        "amount": 3
+      },
+      {
+        "name": "Processing unit",
+        "amount": 2
+      },
+      {
+        "name": "Flying robot frame",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Space science pack",
+    "time": 1,
+    "quantity": 1000,
+    "ingredients": [
+      {
+        "name": "Rocket part",
+        "amount": 100
+      },
+      {
+        "name": "Satellite",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Pistol",
+    "time": 5,
+    "ingredients": [
+      {
+        "name": "Copper plate",
+        "amount": 5
+      },
+      {
+        "name": "Iron plate",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Submachine gun",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 10
+      },
+      {
+        "name": "Copper plate",
+        "amount": 5
+      },
+      {
+        "name": "Iron plate",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Shotgun",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 5
+      },
+      {
+        "name": "Copper plate",
+        "amount": 10
+      },
+      {
+        "name": "Iron plate",
+        "amount": 15
+      },
+        {
+            "name": "Wood",
+            "amount": 5
+        }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Combat shotgun",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 15
+      },
+      {
+        "name": "Copper plate",
+        "amount": 10
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 5
+      },
+      {
+        "name": "Wood",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Rocket launcher",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 5
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 5
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Flamethrower",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 5
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Land mine",
+    "time": 5,
+    "quantity": 4,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 1
+      },
+      {
+        "name": "Explosives",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Firearm magazine",
+    "time": 1,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Piercing rounds magazine",
+    "time": 3,
+    "ingredients": [
+      {
+        "name": "Firearm magazine",
+        "amount": 1
+      },
+      {
+        "name": "Steel plate",
+        "amount": 1
+      },
+      {
+        "name": "Copper plate",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Uranium rounds magazine",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Piercing rounds magazine",
+        "amount": 1
+      },
+      {
+        "name": "Uranium-238",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Shotgun shells",
+    "time": 3,
+    "quantity": 2,
+    "ingredients": [
+      {
+        "name": "Copper plate",
+        "amount": 2
+      },
+      {
+        "name": "Iron plate",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Piercing shotgun shells",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Shotgun shells",
+        "amount": 2
+      },
+      {
+        "name": "Copper plate",
+        "amount": 5
+      },
+      {
+        "name": "Steel plate",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Cannon shell",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 2
+      },
+      {
+        "name": "Plastic bar",
+        "amount": 2
+      },
+      {
+        "name": "Explosives",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Explosive cannon shell",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 2
+      },
+      {
+        "name": "Plastic bar",
+        "amount": 2
+      },
+      {
+        "name": "Explosives",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Uranium cannon shell",
+    "time": 12,
+    "ingredients": [
+      {
+        "name": "Cannon shell",
+        "amount": 1
+      },
+      {
+        "name": "Uranium-238",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Explosive uranium cannon shell",
+    "time": 12,
+    "ingredients": [
+      {
+        "name": "Explosive cannon shell",
+        "amount": 1
+      },
+      {
+        "name": "Uranium-238",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Artillery shell",
+    "time": 15,
+    "ingredients": [
+      {
+        "name": "Explosive cannon shell",
+        "amount": 4
+      },
+      {
+        "name": "Explosives",
+        "amount": 8
+      },
+      {
+        "name": "Radar",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Rocket",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 1
+      },
+      {
+        "name": "Explosives",
+        "amount": 1
+      },
+      {
+        "name": "Iron plate",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Explosive rocket",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Rocket",
+        "amount": 1
+      },
+      {
+        "name": "Explosives",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Atomic bomb",
+    "time": 50,
+    "ingredients": [
+      {
+        "name": "Processing unit",
+        "amount": 20
+      },
+      {
+        "name": "Explosives",
+        "amount": 10
+      },
+      {
+        "name": "Uranium-235",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Flamethrower ammo",
+    "time": 6,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 5
+      },
+      {
+        "name": "Crude oil",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Grenade",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 5
+      },
+      {
+        "name": "Coal",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Cluster grenade",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Grenade",
+        "amount": 7
+      },
+      {
+        "name": "Explosives",
+        "amount": 5
+      },
+      {
+        "name": "Steel plate",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Poison capsule",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Coal",
+        "amount": 10
+      },
+      {
+        "name": "Steel plate",
+        "amount": 3
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Slowdown capsule",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Coal",
+        "amount": 5
+      },
+      {
+        "name": "Steel plate",
+        "amount": 2
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Defender capsule",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Piercing rounds magazine",
+        "amount": 1
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 3
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Distractor capsule",
+    "time": 15,
+    "ingredients": [
+      {
+        "name": "Defender capsule",
+        "amount": 4
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Destroyer capsule",
+    "time": 15,
+    "ingredients": [
+      {
+        "name": "Distractor capsule",
+        "amount": 4
+      },
+      {
+        "name": "Speed module",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Light armor",
+    "time": 3,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Heavy armor",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Copper plate",
+        "amount": 100
+      },
+      {
+        "name": "Steel plate",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Modular armor",
+    "time": 15,
+    "ingredients": [
+      {
+        "name": "Advanced circuit",
+        "amount": 30
+      },
+      {
+        "name": "Steel plate",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Power armor",
+    "time": 20,
+    "ingredients": [
+      {
+        "name": "Processing unit",
+        "amount": 40
+      },
+      {
+        "name": "Electric engine unit",
+        "amount": 20
+      },
+      {
+        "name": "Steel plate",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Power armor mk2",
+    "time": 25,
+    "ingredients": [
+      {
+        "name": "Effectivity module 3",
+        "amount": 25
+      },
+      {
+        "name": "Speed module 3",
+        "amount": 25
+      },
+      {
+        "name": "Processing unit",
+        "amount": 60
+      },
+      {
+        "name": "Low density structure",
+        "amount": 30
+      },
+      {
+        "name": "Electric engine unit",
+        "amount": 40
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Portable solar panel",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Solar panel",
+        "amount": 1
+      },
+      {
+        "name": "Steel plate",
+        "amount": 5
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Portable fusion reactor",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Processing unit",
+        "amount": 200
+      },
+      {
+        "name": "Low density structure",
+        "amount": 50
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Personal battery",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Battery",
+        "amount": 5
+      },
+      {
+        "name": "Steel plate",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Personal battery mk2",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Personal battery",
+        "amount": 10
+      },
+      {
+        "name": "Processing unit",
+        "amount": 15
+      },
+      {
+        "name": "Low density structure",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Personal laser defense",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Processing unit",
+        "amount": 1
+      },
+      {
+        "name": "Low density structure",
+        "amount": 5
+      },
+      {
+        "name": "Laser turret",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Belt immunity equipment",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 10
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Exoskeleton",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Processing unit",
+        "amount": 10
+      },
+      {
+        "name": "Electric engine unit",
+        "amount": 30
+      },
+      {
+        "name": "Steel plate",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Personal roboport",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Advanced circuit",
+        "amount": 10
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 40
+      },
+      {
+        "name": "Steel plate",
+        "amount": 20
+      },
+      {
+        "name": "Battery",
+        "amount": 45
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Personal roboport mk2",
+    "time": 20,
+    "ingredients": [
+      {
+        "name": "Personal roboport",
+        "amount": 5
+      },
+      {
+        "name": "Processing unit",
+        "amount": 100
+      },
+      {
+        "name": "Low density structure",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Nightvision",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      },
+      {
+        "name": "Steel plate",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Energy shield",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Advanced circuit",
+        "amount": 5
+      },
+      {
+        "name": "Steel plate",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Energy shield mk2",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Energy shield",
+        "amount": 10
+      },
+      {
+        "name": "Processing unit",
+        "amount": 10
+      },
+      {
+        "name": "Low density structure",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Personal laser defense",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Processing unit",
+        "amount": 20
+      },
+      {
+        "name": "Low density structure",
+        "amount": 5
+      },
+      {
+        "name": "Laser turret",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Discharge defense",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Processing unit",
+        "amount": 5
+      },
+      {
+        "name": "Steel plate",
+        "amount": 20
+      },
+      {
+        "name": "Laser turret",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Discharge defense remote",
+    "time": 10,
+    "ingredients": [
+      {
+        "name": "Electronic circuit",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Wall",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Stone brick",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Gate",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Stone wall",
+        "amount": 1
+      },
+      {
+        "name": "Steel plate",
+        "amount": 2
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Gun turret",
+    "time": 8,
+    "ingredients": [
+      {
+        "name": "Iron gear wheel",
+        "amount": 10
+      },
+      {
+        "name": "Copper plate",
+        "amount": 10
+      },
+      {
+        "name": "Iron plate",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Laser turret",
+    "time": 20,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 20
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 20
+      },
+      {
+        "name": "Battery",
+        "amount": 12
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Flamethrower turret",
+    "time": 20,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 30
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 15
+      },
+      {
+        "name": "Pipe",
+        "amount": 10
+      },
+      {
+        "name": "Engine unit",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Artillery turret",
+    "time": 40,
+    "ingredients": [
+      {
+        "name": "Steel plate",
+        "amount": 60
+      },
+      {
+        "name": "Concrete",
+        "amount": 60
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 40
+      },
+      {
+        "name": "Advanced circuit",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Artillery targeting remote",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Processing unit",
+        "amount": 1
+      },
+      {
+        "name": "Radar",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Radar",
+    "time": 0.5,
+    "ingredients": [
+      {
+        "name": "Iron plate",
+        "amount": 10
+      },
+      {
+        "name": "Electronic circuit",
+        "amount": 5
+      },
+      {
+        "name": "Iron gear wheel",
+        "amount": 5
+      }
+    ]
   }
-  ]
+]
